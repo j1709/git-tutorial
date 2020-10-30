@@ -1,9 +1,9 @@
 #t tutorial
 #It's Git tutorial
-#test (fix-B)
+#test (fix-P)
 
  Git tutorial
  It's Git tutorial
  test (feature-A)
- test (fix-B)
+ test (fix-P)
  test (feature-D)
